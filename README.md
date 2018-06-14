@@ -18,3 +18,7 @@ Golang - Looked at some code a little bit and attended a gRPC presentation, but 
 Kubernetes - Attended a number of presentations on Kubernetes recently.  I need to spend some time playing with the examples.  I'd like to get a hybrid private / public cloud setup working between my new home server when it is up and Google cloud.
 
 IPv6 - It has been time to fully wrap my head around this now.  I'd really like to have caomparable proficiency with this as I have on IPv4.
+
+OSB - Get something running to record or broadcast myself and my screens.  It is still early days for this idea, but looks like fun and maybe a good way to help other learn.
+
+TW5 - I've been playing with TiddlyWiki5 for a while now, and have a few projects and wikis using TW5.  I'd like to plumb TW5 into a private container and modify it to be able to do git operations and publishing so I can have version controlled TW5 content and an easy way to push my wiki to GitHub pages or some other hosting location.
