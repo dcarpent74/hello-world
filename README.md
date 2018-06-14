@@ -9,7 +9,7 @@ Beyond this I'm working on business development stuff, setting up a new server (
 
 The life of a multi-potentialite (see http://puttylike.com) can get very busy at times, but can also be very rewarding.
 
-My multipod style is massively simultanious and I seldom get bored with a interest, they simply take a back seat to those with higher priorities.
+My multipod style is massively simultaneous and I seldom get bored with a interest, they simply take a back seat to those with higher priorities.
 
 My current stack of tech-learning objectives are as follows:
 
@@ -17,7 +17,7 @@ Golang - Looked at some code a little bit and attended a gRPC presentation, but 
 
 Kubernetes - Attended a number of presentations on Kubernetes recently.  I need to spend some time playing with the examples.  I'd like to get a hybrid private / public cloud setup working between my new home server when it is up and Google cloud.
 
-IPv6 - It has been time to fully wrap my head around this now.  I'd really like to have caomparable proficiency with this as I have on IPv4.
+IPv6 - It has been time to fully wrap my head around this now.  I'd really like to have comparable proficiency with this as I have on IPv4.
 
 OSB - Get something running to record or broadcast myself and my screens.  It is still early days for this idea, but looks like fun and maybe a good way to help other learn.
 
