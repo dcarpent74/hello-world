@@ -1,6 +1,7 @@
 Produce agenda slides
 Food sponsor
 Redhat tmux intro present for Dec. 45 Min.
+Sign in / Name tages.
 
 **Include https://austin.chicktech.org/teach/ teaching opportunity.
 Who is looking for work.
